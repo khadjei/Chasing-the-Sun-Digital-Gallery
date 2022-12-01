@@ -4,7 +4,7 @@ creator,Creator,
 date,Date Created,
 time,Time Taken (24 hour clock),
 medium,Medium,
-dimension,Dimensions (height x width),
+dimension,Dimensions(height x width),
 description,Description,
 subject,Subjects,true
 location,Location
